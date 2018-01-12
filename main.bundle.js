@@ -549,7 +549,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "#homepage-jumbotron{\n  background-image: url('/kayakveniceweb/assets/homepage-image.jpg');\n  min-height: 722px;\n  background-position: bottom center;\n  background-size: cover;\n}\n\nh1{\n  color: white;\n  font-size: 3rem;\n}\n\nh2{\n  color: white;\n  font-size: 3rem;\n}\n\n.btn {\n  display: block;\n  width: 180px;\n  font-size: 2rem;\n\n}\n", ""]);
+exports.push([module.i, "#homepage-jumbotron{\n  background-image: url('/kayakveniceweb/assets/homepage-image.jpg');\n  min-height: 722px;\n  background-position: bottom center;\n  background-size: cover;\n  background-repeat: no-repeat;\n}\n\nh1{\n  color: white;\n  font-size: 3rem;\n}\n\nh2{\n  color: white;\n  font-size: 3rem;\n}\n\n.btn {\n  display: block;\n  width: 180px;\n  font-size: 2rem;\n\n}\n", ""]);
 
 // exports
 
