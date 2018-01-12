@@ -303,7 +303,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, ".jumbotron {\n  background-image: url(/assets/images/2018/inshore-redfish-venice.jpg);\n  min-height: 500px;\n  background-position: center center;\n  background-size: cover;\n  position: relative;\n\n}\n\n.jumbotron .center-vertically{\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n\n.jumbotron h1{\n  color: white;\n  font-size: 3rem;\n}\n\n.jumbotron h2{\n  color: white;\n  font-size: 3rem;\n}\n\n.jumbotron .btn {\n  display: block;\n  /*width:200px;*/\n  font-size: 2rem;\n\n}\n\n.album .card {\n    float: left;\n    width: 50%;\n    padding: .75rem;\n    margin-bottom: 2rem;\n    border: 0;\n}\n\n@media (min-width: 576px) {\n\n  .album .card {\n      width: 25%;\n  }\n\n}\n", ""]);
+exports.push([module.i, ".jumbotron {\n  background-image: url(/kayakveniceweb/assets/images/2018/inshore-redfish-venice.jpg);\n  min-height: 500px;\n  background-position: center center;\n  background-size: cover;\n  position: relative;\n\n}\n\n.jumbotron .center-vertically{\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n\n.jumbotron h1{\n  color: white;\n  font-size: 3rem;\n}\n\n.jumbotron h2{\n  color: white;\n  font-size: 3rem;\n}\n\n.jumbotron .btn {\n  display: block;\n  /*width:200px;*/\n  font-size: 2rem;\n\n}\n\n.album .card {\n    float: left;\n    width: 50%;\n    padding: .75rem;\n    margin-bottom: 2rem;\n    border: 0;\n}\n\n@media (min-width: 576px) {\n\n  .album .card {\n      width: 25%;\n  }\n\n}\n", ""]);
 
 // exports
 
@@ -549,7 +549,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "#homepage-jumbotron{\n  background-image: url('/assets/homepage-image.png');\n  min-height: 722px;\n  background-position: bottom center;\n  background-size: cover;\n}\n\nh1{\n  color: white;\n  font-size: 3rem;\n}\n\nh2{\n  color: white;\n  font-size: 3rem;\n}\n\n.btn {\n  display: block;\n  width: 180px;\n  font-size: 2rem;\n  \n}\n", ""]);
+exports.push([module.i, "#homepage-jumbotron{\n  background-image: url('/kayakveniceweb/assets/homepage-image.png');\n  min-height: 722px;\n  background-position: bottom center;\n  background-size: cover;\n}\n\nh1{\n  color: white;\n  font-size: 3rem;\n}\n\nh2{\n  color: white;\n  font-size: 3rem;\n}\n\n.btn {\n  display: block;\n  width: 180px;\n  font-size: 2rem;\n  \n}\n", ""]);
 
 // exports
 
@@ -610,7 +610,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, ".p-30px{\n  padding: 30px;\n}\n\n.service{\n  position:relative;\n}\n\n.service img{\n  position: relative;\n}\n\n.service.caption{\n  position: relative;\n  color: white;\n  background: black;\n  width:100%;\n}\n\n.fleet{\n  max-height: 800px;\n  overflow: hidden;\n  padding: 5px;\n}\n\n.carousel-overdecal {\n  width: 100%;\n  height: 100%;\n  background-image: url(/assets/carousel-overlay-image.png);\n  position: absolute;\n  top: 0;\n  background-size: cover;\n}\n\n.carousel-caption{\n  background: #2f303699;\n}\n\n/*.card-image{\n  border-radius: 20px;\n  border-bottom-right-radius: 20px;\n  border-bottom-left-radius: 20px;\n  overflow: hidden;\n  max-height: 300px;\n  border-bottom-left-radius: 0;\n  border-bottom-right-radius: 0;\n  box-shadow: #0000001a 5px -5px 10px;\n}*/\n", ""]);
+exports.push([module.i, ".p-30px{\n  padding: 30px;\n}\n\n.service{\n  position:relative;\n}\n\n.service img{\n  position: relative;\n}\n\n.service.caption{\n  position: relative;\n  color: white;\n  background: black;\n  width:100%;\n}\n\n.fleet{\n  max-height: 800px;\n  overflow: hidden;\n  padding: 5px;\n}\n\n.carousel-overdecal {\n  width: 100%;\n  height: 100%;\n  background-image: url(/kayakveniceweb/assets/carousel-overlay-image.png);\n  position: absolute;\n  top: 0;\n  background-size: cover;\n}\n\n.carousel-caption{\n  background: #2f303699;\n}\n\n/*.card-image{\n  border-radius: 20px;\n  border-bottom-right-radius: 20px;\n  border-bottom-left-radius: 20px;\n  overflow: hidden;\n  max-height: 300px;\n  border-bottom-left-radius: 0;\n  border-bottom-right-radius: 0;\n  box-shadow: #0000001a 5px -5px 10px;\n}*/\n", ""]);
 
 // exports
 
@@ -671,7 +671,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, ".jumbotron {\n  background-image: url('/assets/images/2017/kayak-louisiana-tours.jpg');\n  min-height: 500px;\n  background-position: center center;\n  background-size: cover;\n  position: relative;\n\n}\n\n.center-vertically{\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n\nh1{\n  color: white;\n  font-size: 3rem;\n}\n\nh2{\n  color: white;\n  font-size: 3rem;\n}\n\n.btn {\n  display: block;\n  width:300px;\n  font-size: 2rem;\n\n}\n", ""]);
+exports.push([module.i, ".jumbotron {\n  background-image: url('/kayakveniceweb/assets/images/2017/kayak-louisiana-tours.jpg');\n  min-height: 500px;\n  background-position: center center;\n  background-size: cover;\n  position: relative;\n\n}\n\n.center-vertically{\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n}\n\nh1{\n  color: white;\n  font-size: 3rem;\n}\n\nh2{\n  color: white;\n  font-size: 3rem;\n}\n\n.btn {\n  display: block;\n  width:300px;\n  font-size: 2rem;\n\n}\n", ""]);
 
 // exports
 
